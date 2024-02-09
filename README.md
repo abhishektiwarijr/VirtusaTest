@@ -16,7 +16,6 @@ I've created this project to showcase these practices - MVVM + Clean Architectur
       to build android ui
     - [Navigation](https://developer.android.com/jetpack/compose/navigation) - Handle everything needed for in-app navigation.
     - [ViewModel](https://developer.android.com/jetpack/compose/state#viewmodel-state) - Easily schedule asynchronous tasks for optimal execution.
-    - [Room](https://developer.android.com/topic/libraries/architecture/room) - Persistence library for Android.
 - [Retrofit](https://square.github.io/retrofit/) - Type-safe HTTP client and supports coroutines out
   of the box. Used for the network calls.
 - [Gson](https://github.com/google/gson) - Used to convert JSON to Java/Kotlin classes for the
